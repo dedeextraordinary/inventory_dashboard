@@ -1,4 +1,4 @@
-Odoo Dynamic Dashboard
+Inventory Dashboard
 ======================
 
 Dynamically Arrange the dashboard to get the information that are relevant to your business, department, or a specific process or need.
@@ -18,17 +18,8 @@ Bug Tracker
 ===========
 Bugs are tracked on GitHub Issues. In case of trouble, please check there if your issue has already been reported.
 
-Credits
-=======
-* Cybrosys Techno Solutions <https://www.cybrosys.com>
-
 Author
 ------
-Developer: Irfan @ Cybrosys, Afras @Cybrosys
+Developer: IT PMR TEAM
 
-Maintainer
-----------
-This module is maintained by Cybrosys Technologies.
-
-For support and more information, please visit https://www.cybrosys.com.
 
